@@ -1,0 +1,3 @@
+const callValue=(value)=>{
+
+}
