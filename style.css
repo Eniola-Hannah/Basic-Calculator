@@ -1,6 +1,36 @@
+body{
+    background-color: black;
+}
 #display{
     width: 200px;
     height: 60px;
     border: 5px solid deeppink;
     margin: 5px;
+}
+button{
+    border: 0px;
+    width: 60px;
+    height: 60px;
+    
+}
+#btnLight{
+    border-radius: 100%;
+    color: black;
+    background-color: blue;
+}
+#btnGold{
+    border-radius: 100%;
+    color: white;
+    background-color: goldenrod;
+}
+#btnDark{
+    border-radius: 100%;
+    color: white;
+    background-color: rgb(57, 53, 53);
+}
+#btnSpecial{
+    width: 120px;
+    border-radius: 10vw;
+    color: white;
+    background-color: rgb(57, 53, 53);
 }
