@@ -1,5 +1,11 @@
-body{
+#bigHouse{
+    width: 20vw;
+    height: 62vh;
     background-color: black;
+    justify-content: center;
+}
+td{
+    padding: 3px;
 }
 #display{
     width: 200px;
@@ -16,7 +22,7 @@ button{
 #btnLight{
     border-radius: 100%;
     color: black;
-    background-color: blue;
+    background-color: azure;
 }
 #btnGold{
     border-radius: 100%;

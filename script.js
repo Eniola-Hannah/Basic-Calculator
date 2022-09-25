@@ -1,3 +1,5 @@
+firstDisplay.value = 0;
+
 const callValue=(value)=>{
     firstDisplay.value += value
 }
