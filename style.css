@@ -1,17 +1,15 @@
 #bigHouse{
-    width: 20vw;
-    height: 62vh;
+    width: 280px;
+    height: 450px;
     background-color: black;
-    justify-content: center;
+    border-radius: 25px;
+}
+input{
+    background-color: black;
+    border: 0px;
 }
 td{
     padding: 3px;
-}
-#display{
-    width: 200px;
-    height: 60px;
-    border: 5px solid deeppink;
-    margin: 5px;
 }
 button{
     border: 0px;
